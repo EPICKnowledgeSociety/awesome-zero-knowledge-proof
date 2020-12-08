@@ -6,3 +6,6 @@ Awesome Artefacts related to Zero Knowledge Proofs
 
 ### Zero Knowledge Proofs in Puzzles
 - https://scholarworks.merrimack.edu/
+
+### Zero Knowledge Games
+- https://www.rigb.org/christmaslectures08/html/activities/zero-knowledge-games.pdf
