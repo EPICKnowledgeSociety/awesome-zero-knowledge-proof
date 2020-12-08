@@ -9,3 +9,4 @@ Awesome Artefacts related to Zero Knowledge Proofs
 
 ### Zero Knowledge Games
 - https://www.rigb.org/christmaslectures08/html/activities/zero-knowledge-games.pdf
+- https://arxiv.org/pdf/2009.13521.pdf
