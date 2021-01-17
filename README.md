@@ -14,3 +14,6 @@ Awesome Artefacts related to Zero Knowledge Proofs
 
 ### zkPoker on Circom Circuits
 - https://medium.com/coinmonks/zk-poker-a-simple-zk-snark-circuit-8ec8d0c5ee52
+
+### Zero Knowledge DApps
+- https://kndrck.co/posts/practical_guide_build_zk_dapps/
