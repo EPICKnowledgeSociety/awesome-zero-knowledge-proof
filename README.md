@@ -17,3 +17,6 @@ Awesome Artefacts related to Zero Knowledge Proofs
 
 ### Zero Knowledge DApps
 - https://kndrck.co/posts/practical_guide_build_zk_dapps/
+
+### Zero Knowledge Transaction Mempools
+- https://github.com/zeropoolnetwork/eth-boston
