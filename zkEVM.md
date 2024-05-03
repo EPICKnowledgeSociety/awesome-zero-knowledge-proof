@@ -27,4 +27,4 @@
 - Range proofs can done efficiently using Lookups in PLONK
 - Bitwise operations can be done on tupes in PLONK
 - PLONK can also be used to prove the consistency of read write operations
-
+- AIR used in zkSTARK can be used to represent state transitions through adjacent rows
