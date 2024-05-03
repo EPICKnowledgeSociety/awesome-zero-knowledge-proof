@@ -16,7 +16,6 @@
 
 ## Proving Algorithm
 - Polynomial IOP + Polynomial Commitment Schemes
-- 
 
 ## Notes
 - Earlier we used Groth16. It was less flexible
@@ -25,4 +24,7 @@
 - With Polynomial Commitment schemes, the cicuits become one or two degree smaller
 - Prover Algorithms are parallelizable and thus we can use hardware acceleration
 - Recursive proofs lower the cost of on-chain verification
+- Range proofs can done efficiently using Lookups in PLONK
+- Bitwise operations can be done on tupes in PLONK
+- PLONK can also be used to prove the consistency of read write operations
 
