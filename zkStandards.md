@@ -6,5 +6,8 @@
 - Interactive Oracle Proofs of Proximity known as Fast RS IOPP (FRI)
 - It resembles FFT, which has quasi linear complexity
 
+## zk using PLONK
+- Permutation Arguments over Polynomials
+
 ## Reference
 - https://eccc.weizmann.ac.il/report/2017/134/
