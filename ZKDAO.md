@@ -1,3 +1,0 @@
-- Arbitrum Nitro, Optimism Bedrock
-- Nitro, Bedrock, Specular, Nomad Notary
-- Epigen Layer, Celestia
