@@ -72,3 +72,6 @@ Awesome Artefacts related to Zero Knowledge Proofs
 
 ### zkEVM and zkVM
 - https://mirror.xyz/msfew.eth/Yl64OK3lLG48eJpVB3GxqFEhmWOm6yMlAo9sc1VrQP4
+
+### Type of zkVMs
+- https://learnwithovia.hashnode.dev/introduction-to-zkvms-and-types-of-zkvms
