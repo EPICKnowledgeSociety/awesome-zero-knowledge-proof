@@ -4,10 +4,17 @@ Awesome Artefacts related to Zero Knowledge Proofs
 ### History of Zero Knowledge Proofs
 - https://a16zcrypto.com/posts/article/zero-knowledge-canon/
 
+### Study Notes on Zero Knowledge Proofs
+- https://info.cs.st-andrews.ac.uk/student-handbook/files/project-library/cs4796/gf45-Final_Report.pdf
+
+### Zero Knowledge Proofs and Commitment Schemes
+- https://cs.au.dk/~ivan/ComZK06.pdf
+
 ### Essentials of zkSNARKs
 - https://www.halborn.com/blog/post/what-are-zk-snarks
 - https://minaprotocol.com/blog/a-guide-to-zk-snarks
 - https://a16zcrypto.com/posts/article/17-misconceptions-about-snarks/
+- https://www.cryptologie.net/article/507/the-missing-explanation-of-zk-snarks-part-1/
 
 ### Essentials of PLONK
 - https://blog.lambdaclass.com/all-you-wanted-to-know-about-plonk/
@@ -21,6 +28,10 @@ Awesome Artefacts related to Zero Knowledge Proofs
 
 ### Essentials of Circom
 - https://www.rareskills.io/post/circom-tutorial
+- https://victoryeo-62924.medium.com/zero-knowledge-rollup-using-circom-for-beginner-276ff1a96d5b
+
+### Essentials of Mina
+- https://docs.minaprotocol.com/zkapps/tutorials/hello-world
 
 ### Comparison of General Purpose zkSNARKs
 - https://medium.com/coinmonks/comparing-general-purpose-zk-snarks-51ce124c60bd
@@ -29,7 +40,10 @@ Awesome Artefacts related to Zero Knowledge Proofs
 ### Benchmarking zkSNARKs
 - https://ethresear.ch/t/benchmarking-zkp-development-frameworks-the-pantheon-of-zkp/14943
 
-### Zero-Knowledge Argument for Correctness of a Shuffle
+### Zero Knowledge Proofs and Shnorr Signatures
+- https://www.cryptologie.net/article/193/schnorrs-signature-and-non-interactive-protocols/
+
+### Zero Knowledge Argument for Correctness of a Shuffle
 - http://www0.cs.ucl.ac.uk/staff/J.Groth/MinimalShuffle.pdf
 
 ### Zero Knowledge Proofs in Puzzles
