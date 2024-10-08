@@ -69,3 +69,6 @@ Awesome Artefacts related to Zero Knowledge Proofs
 
 ### Zero Knowledge Transaction Mempools
 - https://github.com/zeropoolnetwork/eth-boston
+
+### zkEVM and zkVM
+- https://mirror.xyz/msfew.eth/Yl64OK3lLG48eJpVB3GxqFEhmWOm6yMlAo9sc1VrQP4
