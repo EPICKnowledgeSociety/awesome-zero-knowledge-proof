@@ -6,9 +6,15 @@ Awesome Artefacts related to Zero Knowledge Proofs
 
 ### Study Notes on Zero Knowledge Proofs
 - https://info.cs.st-andrews.ac.uk/student-handbook/files/project-library/cs4796/gf45-Final_Report.pdf
+- https://www.cs.purdue.edu/homes/ninghui/courses/555_Spring12/handouts/555_Spring12_topic23.pdf
+- https://www.monoceros.com/insights/zero-knowledge-proofs-a-technology-primer
+
+### Maksym Petkus on zkSNARKs
+- https://arxiv.org/pdf/1906.07221
 
 ### Zero Knowledge Proofs and Commitment Schemes
 - https://cs.au.dk/~ivan/ComZK06.pdf
+- https://www.cs.purdue.edu/homes/ninghui/courses/555_Spring12/handouts/555_Spring12_topic23.pdf
 
 ### Essentials of zkSNARKs
 - https://www.halborn.com/blog/post/what-are-zk-snarks
