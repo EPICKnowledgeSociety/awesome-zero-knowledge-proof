@@ -12,3 +12,11 @@
 - Prover: Converts the execution trace into zero knowledge proofs and shrinks the output into a few KBs as SNARK or STARK proof
 - Verifier: (Not part of the zkVM) Verifies the encrypted results of the executed program using a proof
 
+### zkVM Implementations and their components
+- StarkNet : Proof System (STARK), ISA(Cairo), Compiler(Proprietry), Programming Language(Cairo)
+- Lita: Proof System(STARK), ISA(Valida), Compiler(LLVM), Programming Language(C,C++, Rust, Solidity)
+- Risc Zero: Proof System(STARK), ISA(RISC-V), 
+- Succinct Labs: Proof System(STARK), ISA(RISC-V/Valida), 
+- Nexus: Proof System(STARK), ISA(NVM), 
+- Polygon Miden: Proof System(STARK), ISA(Miden)
+
